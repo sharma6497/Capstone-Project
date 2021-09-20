@@ -11,6 +11,9 @@ customer details, since the volume of data is rapidly growing day-by-day. This d
 the customer’s behavior and the risk around loan can be reduced. Also these Institutions receive numerous 
 loan requests each day and it may take a while to process a particular application and make a decision 
 regarding its eligibility for loan.
+
+
+
 Solution Offered:
 Automating the loan approval process can save a huge amount of time and man-power for a Financial 
 Institution. Machine Learning can be used to automate the loan eligibility process and provide near-accurate 
